@@ -44,7 +44,7 @@ Customer churn leads to revenue loss. The goal is to identify high-risk customer
 
 Interactive Power BI dashboard highlighting churn trends and revenue impact:
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ---
 
